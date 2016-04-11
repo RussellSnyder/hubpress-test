@@ -1,2 +1,6 @@
 = My first Blog Post
 == Super Awesome
+
+I wonder how many licks to the center of a tootsie roll pop?
+
+Also, I wonder who the fuck cares....
