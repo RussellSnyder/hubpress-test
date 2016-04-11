@@ -1,5 +1,7 @@
 = Another post
 
+:hp-tags: HubPress, Blog, Open Source
+
 Just to see how it feels, Its like a mix of sunchine and rainbows and sushi and love and nobody will ever know about it unless I tell them lol
 
 :hp-image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Western_Sushi.jpg
