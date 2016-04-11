@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "RussellSnyder",
-    "repositoryName": "hubpress-test",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"RussellSnyder","repositoryName":"hubpress-test","branch":"gh-pages"},"site":{"title":"Checking out what this HubPress thing can do....","description":"just a test of things","logo":"Rainbows","cover":"https://pixabay.com/static/uploads/photo/2015/09/20/17/12/rainbow-948520_960_720.png","postsPerPage":"3","url":"https://RussellSnyder.github.io/hubpress-test"},"socialnetwork":{"email":"yuiasdfo@yuisdfs.com"},"theme":{"name":"Casper","url":"//RussellSnyder.github.io/hubpress-test/themes/Casper"}}
